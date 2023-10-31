@@ -1,0 +1,127 @@
+[
+    {
+        "NOMBRE": "Gondor",
+        "POSX": 3,
+        "POSY": 3
+    },
+    {
+        "NOMBRE": "Rohan",
+        "POSX": 2,
+        "POSY": 4
+    },
+    {
+        "NOMBRE": "Madrid",
+        "POSX": 1,
+        "POSY": 3
+    },
+    {
+        "NOMBRE": "MurciaCity",
+        "POSX": 4,
+        "POSY": 8
+    },
+    {
+        "NOMBRE": "Isengard",
+        "POSX": 7,
+        "POSY": 2
+    },
+    {
+        "NOMBRE": "Catalunya",
+        "POSX": 4,
+        "POSY": 1
+    },
+    {
+        "NOMBRE": "Ciudad Penal",
+        "POSX": 5,
+        "POSY": 6
+    },
+    {
+        "NOMBRE": "Las Rozas",
+        "POSX": 2,
+        "POSY": 1
+    },
+    {
+        "NOMBRE": "Fabrik",
+        "POSX": 1,
+        "POSY": 1
+    },
+    {
+        "NOMBRE": "Kumara",
+        "POSX": 2,
+        "POSY": 3
+    },
+    {
+        "NOMBRE": "GTF",
+        "POSX": 4,
+        "POSY": 7
+    },
+    {
+        "NOMBRE": "Paracuellos",
+        "POSX": 5,
+        "POSY": 5
+    },
+    {
+        "NOMBRE": "Nuketown",
+        "POSX": 2,
+        "POSY": 6
+    },
+    {
+        "NOMBRE": "Las 3000 Viviendas",
+        "POSX": 1,
+        "POSY": 7
+    },
+    {
+        "NOMBRE": "Marbella",
+        "POSX": 5,
+        "POSY": 8
+    },
+    {
+        "NOMBRE": "Nacion Gondoriana",
+        "POSX": 8,
+        "POSY": 3
+    },
+    {
+        "NOMBRE": "Dol Guldur",
+        "POSX": 9,
+        "POSY": 4
+    },
+    {
+        "NOMBRE": "Torre Stark",
+        "POSX": 7,
+        "POSY": 5
+    },
+    {
+        "NOMBRE": "Nueva Shork",
+        "POSX": 10,
+        "POSY": 8
+    },
+    {
+        "NOMBRE": "Leganes",
+        "POSX": 12,
+        "POSY": 1
+    },
+    {
+        "NOMBRE": "Islandia",
+        "POSX": 13,
+        "POSY": 4
+    },
+    {
+        "NOMBRE": "Ventormenta",
+        "POSX": 2,
+        "POSY": 9
+    },
+    {
+        "NOMBRE": "Minas Moria",
+        "POSX": 17,
+        "POSY": 12
+    },
+    {
+        "NOMBRE": "Minas Tirith",
+        "POSX": 8,
+        "POSY": 4
+    },
+    {
+        "NOMBRE": "Minas Morgul",
+        "POSX": 10,
+        "POSY": 11
+    }
+]

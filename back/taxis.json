@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "UBICACION": "Gondor",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 2,
+        "UBICACION": "Rohan",
+        "DESTINO": "Marbella",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 3,
+        "UBICACION": "Fabrik",
+        "DESTINO": "Las 3000 Viviendas",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 4,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "Gondor",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 5,
+        "UBICACION": "Madrid",
+        "DESTINO": "Madrid",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 6,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 7,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 8,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 9,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    },
+    {
+        "ID": 10,
+        "UBICACION": "Las Rozas",
+        "DESTINO": "-",
+        "ESTADO": "Libre"
+    }
+]

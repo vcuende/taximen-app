@@ -1,0 +1,29 @@
+[
+    {
+        "ID": 0,
+        "NOMBRE": "Antonio",
+        "CORREO": "4ntorg@gmail.com",
+        "TELEFONO": "123",
+        "TARJETA": "456",
+        "PASSWORD": "12345",
+        "ACTIVO": true
+    },
+    {
+        "ID": 1,
+        "NOMBRE": "Victor",
+        "CORREO": "victor@gmail.com",
+        "TELEFONO": "123",
+        "TARJETA": "456",
+        "PASSWORD": "12345",
+        "ACTIVO": true
+    },
+    {
+        "ID": 3,
+        "NOMBRE": "Test",
+        "CORREO": "test",
+        "TELEFONO": "123",
+        "TARJETA": "456",
+        "PASSWORD": "123",
+        "ACTIVO": true
+    }
+]
