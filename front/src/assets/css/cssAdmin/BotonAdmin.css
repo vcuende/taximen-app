@@ -1,0 +1,22 @@
+.BotonAdmin{
+    height: 5%;
+    width: 2.4%;
+    border-radius: 100%;
+    background-color: rgb(16, 60, 80);
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    line-height: 23px;
+    color:white;
+    font-size: 20px;
+    position: 'absolute';
+    transition: transform 250ms;
+}
+
+
+.BotonAdmin:hover{
+    transform: translateY(-2px);
+    background-color:rgb(22, 98, 133);
+}

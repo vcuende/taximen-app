@@ -1,0 +1,48 @@
+.textoTaxi{
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    line-height: 205px;
+    color:rgb(16,60,80);
+    font-size: 50px;
+    animation-name: aparecer;
+    animation-duration: 3s;
+}
+
+.PopUpTaxi{
+    display: none;
+    background-color: rgb(206, 206, 206);
+    text-align: center;
+    height: 500px;
+    width: 30%;
+    left:35%;
+    position:relative; 
+    z-index:2;
+    border-radius: 3%;
+    text-align: center;
+    font-family: Helvetica;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    line-height: 100px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    animation-name: aparecer;
+    animation-duration: 3s;
+}
+
+#taxiConfirma{
+    top:60%;
+    position:relative;
+    width: 30%;
+    right: 21%;
+    animation-name: aparecer;
+    animation-duration: 3s;
+}
+
+@keyframes aparecer{
+    0% {opacity: 0%;}
+    100% {opacity: 100%;}
+}

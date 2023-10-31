@@ -1,0 +1,56 @@
+.campos{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    height: 0px;
+}
+
+
+.regBtn{
+    font-family: Helvetica;
+    font-weight: lighter;
+    margin-left:38%;
+    margin-top: 3%;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(16, 60, 80);
+    transition: transform 250ms;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.regBtn:hover{
+    transform: translateY(-2px);
+    background-color:rgb(22, 98, 133);
+}
+
+
+.nombre, .correo, .tlf, .tarjeta, .password{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin:25px;
+    flex:1;
+}
+
+
+input{
+    background-color: rgb(206, 206, 206);
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 20px;
+    height: 40px;
+    width: 500px;
+}

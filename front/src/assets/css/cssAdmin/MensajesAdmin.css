@@ -1,0 +1,48 @@
+.SolicitudLabelAdmin{
+    background-color: rgb(260,260,260);
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
+
+.ListaSolicitudesAdmin{
+    background-color: rgb(206,206,206);
+    border-radius: 2%;
+    align-self: center;
+    width: 93%;
+    display: flex;
+    flex-direction: column;
+    position: static;
+    right: 50px;
+    font-size: 18px;
+
+}
+
+
+.elemSolicitud{
+    flex:1;
+}
+
+
+.botonValidacion{
+    flex:0.8;
+    background-color: rgb(255, 255, 255);
+    color: green;
+    font-size: 20px;
+}
+
+
+.botonValidacion:hover{
+    transform: translateY(-2px);
+    background-color:rgb(245, 245, 245);
+}
+
+
+
+#cabeceraSolicitudes{
+    background-color: rgb(16,60,80);
+    font-size: 20px;
+    flex:1;
+    color:white
+}

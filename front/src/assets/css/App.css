@@ -1,0 +1,46 @@
+.App{
+  height: 900px;
+  background-color: rgb(260, 260, 260);
+}
+
+
+.titulo{
+  height: 100px;
+text-align: center;
+}
+
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.nombre{
+  flex:1;
+}
+
+
+.correo{
+  flex:1;
+}
+
+
+.tlf{
+  flex:1;
+}
+
+
+.tarjeta{
+  flex:1;
+}
+
+
+.registBoton{
+  width:25%;
+  position: sticky;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
